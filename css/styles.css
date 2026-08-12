@@ -1174,6 +1174,7 @@ div.overlay:after {
   -moz-border-radius: 3px;
   border-radius: 3px;
   margin-top: 30px;
+  min-height: 344px;
 }
 .service-item i {
   display: inline-block;
